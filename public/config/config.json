@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x66F4aa878e2201a316D5a8c8223806e039463B5f",
+  "SCAN_LINK": "https://iotexscan.io/address/io1vm624puwygq6x9k44ryzywqxuqu5vw6lkq8883",
+  "NETWORK": {
+    "NAME": "IoTeX",
+    "SYMBOL": "IOTX",
+    "ID": 4689,
+    "HEX_ID":"0x1251"
+  },
+  "NFT_NAME": "Iotexsons Avatar",
+  "SYMBOL": "Iotexsons Avatar",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 250000000000000000000,
+  "DISPLAY_COST": 250,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "IOTEXSONS",
+  "MARKETPLACE_LINK": "https://iotexsons.mypinata.cloud/ipfs/QmYqc2hxSqdUJjubESV6pByQbVADCfVktoXAtKVuyzLjvN",
+  "SHOW_BACKGROUND": true
+}
